@@ -1,6 +1,2 @@
 linha1
-<<<<<<< HEAD
-nova linha 2
-=======
 big fix na linha 2
->>>>>>> feature
